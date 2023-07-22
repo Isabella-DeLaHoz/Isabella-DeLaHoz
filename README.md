@@ -1,4 +1,4 @@
-![Header](./Header/github-header-image.png)
+![Header](./Header/github-header-image (3).png)
 
 <h3 align="center">Motivated and forward-thinking engineering student with a passion for building products,Quantum Computing, Artificial Intelligence and Robotics.A quick learner with interested for staying up-to-date with the latest industry trends and technologies.</h3>
 
