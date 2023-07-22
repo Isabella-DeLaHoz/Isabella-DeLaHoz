@@ -5,7 +5,7 @@ Motivated and forward-thinking engineering student with a passion for building p
 
 
 <h2 align="left">📚 I'm Currently Learning</h2>
-<h5 align="left">Pontificia Universidad Javeriana</h5>
+<h4 align="left">Pontificia Universidad Javeriana</h4>
 
 
 
