@@ -1,7 +1,11 @@
 ![Header](./Header/github-header-image.png)
 
 
-<h3 align="center">Motivated and forward-thinking engineering student with a passion for building products,Quantum Computing, Artificial Intelligence and Robotics.A quick learner with interested for staying up-to-date with the latest industry trends and technologies.</h3>
+<h2 align="center">Motivated and forward-thinking engineering student with a passion for building products,Quantum Computing, Artificial Intelligence and Robotics.A quick learner with interested for staying up-to-date with the latest industry trends and technologies.</h2>
+
+
+<h2 align="left">📚 I'm Currently Learning</h2>
+__Pontificia Universidad Javeriana__
 
 
 
