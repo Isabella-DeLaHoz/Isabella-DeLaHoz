@@ -1,7 +1,7 @@
 ![Header](./Header/github-header-image.png)
 
 
--Motivated and forward-thinking engineering student with a passion for building products,Quantum Computing, Artificial Intelligence 
+Motivated and forward-thinking engineering student with a passion for building products,Quantum Computing, Artificial Intelligence 
 and Robotics.A quick learner with interested for staying up-to-date with the latest industry trends and technologies.
 
 
