@@ -25,10 +25,7 @@ and Robotics.A quick learner with interested for staying up-to-date with the lat
 <h4 align="left">Electromyography Sensor</h4>
 
 
-
-
-
-Check out the Github repository:
+Check out the Github repository:https://github.com/Isabella-DeLaHoz/Electromyography
 
 
 
